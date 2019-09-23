@@ -11,7 +11,7 @@ MESE - Management & Economics Simulation Exercise (МЭМ - Моделирова
 
 ![Основной экран](img_01.png "Основной экран")
 
-<img src="img_01.png" height="100%" width="100%">
+<img src="img_01.png" height="353px" width="702px">
 
 ![Экран ввода решений](img_02.png "Экран ввода решений")
 
