@@ -7,6 +7,8 @@ MESE - Management & Economics Simulation Exercise (МЭМ - Моделирова
 
 [Скачать zip архив](mese93.zip)
 
+[Скачать Учебное пособие](Student_Workbook.pdf)
+
 ![Основной экран](img_01.png "Основной экран")
 
 ![Экран ввода решений](img_02.png "Экран ввода решений")
