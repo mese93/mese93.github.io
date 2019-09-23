@@ -9,7 +9,7 @@ MESE - Management & Economics Simulation Exercise (МЭМ - Моделирова
 
 [Скачать Учебное пособие](Student_Workbook.pdf)
 
-![Основной экран](img_01.png =702x352 "Основной экран")
+![Основной экран](img_01.png "Основной экран"){:height="100%" width="100%"}
 
 <img src="img_01.png" width="702px">
 
