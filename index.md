@@ -7,7 +7,7 @@ MESE - Management & Economics Simulation Exercise (МЭМ - Моделирова
 
 Версия 1.0 [Скачать zip архив](mese93-1.0.zip) (версия java 8 и выше)
 
-Версия 1.0 [Скачать zip архив](mese93-1.1.zip) (версия java 11 и выше)
+Версия 1.1 [Скачать zip архив](mese93-1.1.zip) (версия java 11 и выше)
 
 [Скачать Учебное пособие](Student_Workbook.pdf)
 
