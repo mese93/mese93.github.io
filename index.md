@@ -3,9 +3,11 @@ MESE - Management & Economics Simulation Exercise (МЭМ - Моделирова
 Программа mese93 - реплика оригинального экономического симулятора Junior Achievement. 
 Модель полностью соответствует модели оригинального симулятора.
 
-Для запуска требуется [java]( https://www.java.com) версии 8 и выше.
+Для запуска требуется [java]( https://www.java.com).
 
-[Скачать zip архив](mese93.zip)
+Версия 1.0 [Скачать zip архив](mese93-1.0.zip) (версия java 8 и выше)
+
+Версия 1.0 [Скачать zip архив](mese93-1.1.zip) (версия java 11 и выше)
 
 [Скачать Учебное пособие](Student_Workbook.pdf)
 
